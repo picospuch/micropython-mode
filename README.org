@@ -1,0 +1,7 @@
+* micropython-mode
+a emacs mode derived from python-mode for micropython
+
+* status
+'repl works on macos using 'cu serial tool
+
+
