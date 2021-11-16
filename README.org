@@ -1,5 +1,5 @@
 * micropython-mode
-a emacs mode derived from python-mode for micropython
+an emacs mode derived from python-mode for micropython
 
 * status
 raw mode 'repl works on macos using 'cu serial tool.
